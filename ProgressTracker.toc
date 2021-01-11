@@ -8,4 +8,8 @@
 ## Dependencies: AllTheThings
 ## SavedVariables: vPT_Config, vPT_Profile, vPT_Data, vPT_Simple
 
+### Managed to save data from ATT, while selecting one of 3 options, you can see in addon... meantime
+### still working on Lua to CSV or related (to Excel and/or Google Sheet), if anyone know how to "export/import"
+### help would be greatly appreciated, see image for samples.
+
 ProgressTracker.lua
